@@ -3,5 +3,6 @@ public class firstclass {
         System.out.println("out");
         System.out.println("yes");
         System.out.println("yes");
+        System.out.println("out");
     }
 }
